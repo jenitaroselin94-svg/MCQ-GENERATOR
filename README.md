@@ -247,17 +247,3 @@ This project helps in understanding:
 * API authentication
 
 ---
-
-## Project Information
-
-**Project Name:** QuizNova - AI MCQ Generator
-
-**Course:** B.Sc. Computer Science with Artificial Intelligence
-
-**College:** SDNB Vaishnav College for Women, Chennai
-
----
-
-## License
-
-This project is created for educational and learning purposes.
